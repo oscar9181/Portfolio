@@ -1,0 +1,13 @@
+h1{text-align: center;}
+img{float: left;}
+sidebar {
+    width: 30%;
+    float: right;
+    background-color: antiquewhite;
+}
+body{
+    background-color: antiquewhite;
+}
+img {
+width: 5%;
+height: 5%;}
